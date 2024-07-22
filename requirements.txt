@@ -1,0 +1,4 @@
+tiktoken
+matplotlib
+torch
+gpt-index
